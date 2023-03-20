@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/seo_library/" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat-square&logo=file:///C:/Users/jaehe/Downloads/instagram%20.svg/></svg>&logoColor=000000"/></a>
+<a href="https://www.instagram.com/seo_library/" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat-square&logo=file:///C:/Users/jaehe/Downloads/instagram.pdf/></svg>&logoColor=000000"/></a>
 <!--
 **SeoJH27/SeoJH27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
