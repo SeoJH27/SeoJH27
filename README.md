@@ -14,13 +14,9 @@
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJH27&show_icons=true&theme=radical&bg_color=FFFFFF&title_color=FF4500&text_color=616264)
   
-  [![Solved.ac
-sjhsjh](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
- 
-  [![Solved.ac
-sjhsjh](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-
+[![Solved.ac
+ Seojaeheun](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjhsjh)](https://solved.ac/sjhsjh)
+  
 <br/>
 <br/>
   
