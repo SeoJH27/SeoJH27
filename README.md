@@ -12,7 +12,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2385F5F6&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/SeoJH27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJH27&layout=donut)](https://github.com/SeoJH27/github-readme-stats)
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoJH27&show_icons=true&theme=radical&bg_color=FFFFFF&title_color=FF4500&text_color=616264)
   
